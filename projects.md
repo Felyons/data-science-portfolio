@@ -22,6 +22,10 @@ Using the Pandas model in Python I created a Data Frame structing the API's. In 
 01-01-1993 - 06-06-2026. The raw data in the DataFrame did very numerical heavily, taking logs of certain columns such as TTLCONS and CPIAUCSL helped to even things for further comparision.
 `python df["log_TTLCONS"] = np.log(df["TTLCONS"])` The API itself also contained access dates which were removed as columns to keep viewer visual easier. 
 
+<img width="762" height="267" alt="df head" src="https://github.com/user-attachments/assets/602e290d-dba5-453c-9d5a-8ececbc85725" />
+
+
+
 
 
 
