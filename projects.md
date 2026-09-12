@@ -8,9 +8,9 @@ Whether we are referring to a residential home building/renovations or commercia
 does an increase in total construction cost relate to a better economy for the citizen?
 
 
-Using the (Federal Reserve Bank of St. Louis)[https://fred.stlouisfed.org/] a nationally respected source of economic information.
+Using the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/) a nationally respected source of economic information.
 I collected a number of API's 
 
     Independent Variable                                                             Dependent Variables 
-Total Construction (TTLCONS)[https://fred.stlouisfed.org/series/TTLCONS]                        Unemployment Rate (UNRATE)[https://fred.stlouisfed.org/series/UNRATE] Consumer Price Index(CPIAUCSL)[https://fred.stlouisfed.org/series/CPIAUCSL] US Regular Gas Price (GASREGM)[https://fred.stlouisfed.org/series/GASREGw#]
+Total Construction [TTLCONS](https://fred.stlouisfed.org/series/TTLCONS)                        Unemployment Rate [UNRATE](https://fred.stlouisfed.org/series/UNRATE) Consumer Price Index[CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) US Regular Gas Price [GASREGM](https://fred.stlouisfed.org/series/GASREGw#)
 
