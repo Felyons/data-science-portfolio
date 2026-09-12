@@ -1,6 +1,6 @@
 # Frank Lyons
 Data Science, Junior  
-University of North Carolina at Charlotte | [Linked In](https://www.linkedin.com/in/frank-lyons-843600363) | [Resume](Frank_Lyons_Resume2026.pdf)
+University of North Carolina at Charlotte | [Linked In](https://www.linkedin.com/in/frank-lyons-843600363) | [Resume](Frank_Lyons_Resume.pdf)
 
 ## About Me
 Welcome to my Data Science Studio portfolio.
