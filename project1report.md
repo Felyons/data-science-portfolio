@@ -29,5 +29,5 @@ It is important to note this was decided in a way that would highlight the early
 <img width="1320" height="443" alt="FRED construction" src="https://github.com/user-attachments/assets/4c3690d3-f55d-4775-8b41-ca58c99008f4" />
 
 
-<img width="1489" height="1229" alt="lineplot" src="https://github.com/user-attachments/assets/ded56054-efa0-4880-9fea-f7a695d1a800" />
+<img style="width: auto; max-width: 100%;" alt="lineplot" src="https://github.com/user-attachments/assets/ded56054-efa0-4880-9fea-f7a695d1a800" />
 
