@@ -12,7 +12,7 @@ I collected a number of API's
 Total Construction [TTLCONS](https://fred.stlouisfed.org/series/TTLCONS) 
 
 ### Dependent Variables: 
-Unemployment Rate [UNRATE](https://fred.stlouisfed.org/series/UNRATE) Consumer Price Index[CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) US Regular Gas Price [GASREGM](https://fred.stlouisfed.org/series/GASREGw#)
+Unemployment Rate [UNRATE](https://fred.stlouisfed.org/series/UNRATE) Consumer Price [CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) US Regular Gas Price [GASREGM](https://fred.stlouisfed.org/series/GASREGw#)
 
 
 Using the Pandas model in Python I created a Data Frame structing the API's. In order to keep the data as balanced as possible, I used a structure with a reported value on the first of month for the time period 
@@ -27,3 +27,7 @@ In order to work with the large set of data we have, 5 sets of 2 year blocks are
 It is important to note this was decided in a way that would highlight the early 2000's, housing market crash of 2008, and COVID. This specific events are factors that heavily effect our data when comparing to the economy as a whole, others variables not included in this study could sway our variables. 
 
 <img width="1320" height="443" alt="FRED construction" src="https://github.com/user-attachments/assets/4c3690d3-f55d-4775-8b41-ca58c99008f4" />
+
+
+<img width="1489" height="1229" alt="lineplot" src="https://github.com/user-attachments/assets/ded56054-efa0-4880-9fea-f7a695d1a800" />
+
