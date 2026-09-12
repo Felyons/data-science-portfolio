@@ -26,7 +26,7 @@ In order to work with the large set of data we have, 5 sets of 2 year blocks are
 #### 94-96, 00-02, 06-08, 12-14, 20-22
 It is important to note this was decided in a way that would highlight the early 2000's, housing market crash of 2008, and COVID. This specific events are factors that heavily effect our data when comparing to the economy as a whole, others variables not included in this study could sway our variables. 
 
-<img width="1320" height="443" alt="FRED construction" src="https://github.com/user-attachments/assets/4c3690d3-f55d-4775-8b41-ca58c99008f4" />
+### [Selected Points of Interest](<img width="1320" height="443" alt="FRED construction" src="https://github.com/user-attachments/assets/4c3690d3-f55d-4775-8b41-ca58c99008f4" />)
 
 
 <img style="width: auto; max-width: 100%;" alt="lineplot" src="https://github.com/user-attachments/assets/ded56054-efa0-4880-9fea-f7a695d1a800" />
