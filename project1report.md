@@ -30,5 +30,5 @@ It is important to note this was decided in a way that would highlight the early
 
 
 <img style="width: auto; max-width: 100%;" alt="lineplot" src="https://github.com/user-attachments/assets/ded56054-efa0-4880-9fea-f7a695d1a800" />
-*This chart was created with assistance of AI, model ChatGPT Free*
+*This chart was created with the assistance of AI, model ChatGPT Free*
 
