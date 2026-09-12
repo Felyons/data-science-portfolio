@@ -1,7 +1,7 @@
 # Projects
 This section documents my data science projects, research questions, and data stories I create throughout the semesters.
 ---
-## Project 1
+## [Project 1](project1report.md)
 
 Construction, a major industry in America. In itself it supplies countless jobs, supports other industrys such as maufactoring and most times requires all types of skill labor.
 Whether we are referring to a residential home building/renovations or commercial real estate and government contracting money is being spent. The question I am researching is,
