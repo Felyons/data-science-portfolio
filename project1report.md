@@ -1,3 +1,5 @@
+# Report
+
 Construction, a major industry in America. In itself it supplies countless jobs, supports other industrys such as maufactoring and most times requires all types of skill labor.
 Whether we are referring to a residential home building/renovations or commercial real estate and government contracting money is being spent. The question I am researching is,
 does an increase in total construction cost relate to a better economy for the citizen?
@@ -18,3 +20,10 @@ Using the Pandas model in Python I created a Data Frame structing the API's. In 
 `python df["log_TTLCONS"] = np.log(df["TTLCONS"])` The API itself also contained access dates which were removed as columns to keep viewer visual easier. 
 
 <img width="762" height="267" alt="df head" src="https://github.com/user-attachments/assets/602e290d-dba5-453c-9d5a-8ececbc85725" />
+
+In order to work with the large set of data we have, 5 sets of 2 year blocks are compared. This was decided based off the base chart provided by FRED. 
+
+#### 94-96, 00-02, 06-08, 12-14, 20-22
+It is important to note this was decided in a way that would highlight the early 2000's, housing market crash of 2008, and COVID. This specific events are factors that heavily effect our data when comparing to the economy as a whole, others variables not included in this study could sway our variables. 
+
+<img width="1320" height="443" alt="FRED construction" src="https://github.com/user-attachments/assets/4c3690d3-f55d-4775-8b41-ca58c99008f4" />
