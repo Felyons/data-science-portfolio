@@ -17,3 +17,11 @@ Total Construction [TTLCONS](https://fred.stlouisfed.org/series/TTLCONS)
 ### Dependent Variables: 
 Unemployment Rate [UNRATE](https://fred.stlouisfed.org/series/UNRATE) Consumer Price Index[CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) US Regular Gas Price [GASREGM](https://fred.stlouisfed.org/series/GASREGw#)
 
+
+Using the Pandas model in Python I created a Data Frame structing the API's. In order to keep the data as balanced as possible, I used a structure with a reported value on the first of month for the time period 
+01-01-1993 - 06-06-2026. The raw data in the DataFrame did very numerical heavily, taking logs of certain columns such as TTLCONS and CPIAUCSL helped to even things for further comparision.
+`python df["log_TTLCONS"] = np.log(df["TTLCONS"])` The API itself also contained access dates which were removed as columns to keep viewer visual easier. 
+
+
+
+
