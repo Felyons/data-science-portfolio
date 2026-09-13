@@ -1,4 +1,4 @@
-# Report
+# Findings
 
 Construction, a major industry in America. In itself supplies countless jobs, supports other industries such as manufacturing  and most times requires all levels of skilled labor.
 Whether we are referring to a residential home building/renovations or commercial real estate and government contracting, money is being spent. The question I am researching is,
