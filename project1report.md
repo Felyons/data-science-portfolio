@@ -52,3 +52,7 @@ The above chart is a collection of boxenplots graphing a single variable per cha
 
 ### Limitations, Ethics, and Reflection
 Most economic studies most choose points of focus. This can pose a challenge when trying to address the idea of an entire countries economic change. My study is not with out these constraints either, for example certain historic economic disruptions that occured during our points of interest. September 11th terrorist attacks, housing market crash of 2008, and the COVID pandemic these are unvoidable factors that will skew data. As a research I needed to be aware of these facts addressing them as they become apparent. Looking at the conclusions draw through the data collected and analyzed in this study I feel it leaves a question for a future researcher. Potentional variable looking at the price of finished products, either single family home or commerical real estate through the year groupings. Including a raw materials cost could be argued that is enough to represent the increase in spending as higher base results in altered total. I feel that a better measure is total sale price, not only does this help in showing true profit good for the economy but as a society cost is not the only thing we attrubute within vaulation. 
+
+
+[**Bibliography**](bibliography.md)
+
