@@ -11,3 +11,5 @@ When attempting to run for office the main thing a candidate has is their word. 
 $/color{black}{Do campaign donations determine who will win when the ballots are counted?}$
 
 [!Do campaign donations determine who will win when the ballots are counted?]
+
+```!Do campaign donations determine who will win when the ballots are counted?```
