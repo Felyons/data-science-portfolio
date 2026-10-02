@@ -3,6 +3,8 @@ This section documents my data science projects, research questions, and data st
 ---
 ## [Project 1](project1report.md)
 
+## [Project 2](project2report.md)
+
 
 
 
