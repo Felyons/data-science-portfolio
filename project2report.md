@@ -8,4 +8,4 @@ models highlighted below were created to help with visualize the up coming midte
 
 When attempting to run for office the main thing a candidate has is their word. The stance in which they campaign on define them, attracting voters with common beliefs and sharing in their party platform. How do they spread their message? Advertising. The process of campaigning is not a cheap one, the ability for a candidate to properly portray themselves into the main stream comes from backing. Financial donations are a fundamental part of elections, the sheer amount of money one candidate can raise can reflect a life time of earnings.
 
-<p style="color:black;">Do campaign donations determine who will win when the ballots are counted?<> 
+$/color{black}{Do campaign donations determine who will win when the ballots are counted?}$
