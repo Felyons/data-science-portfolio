@@ -8,8 +8,6 @@ models highlighted below were created to help with visualize the up coming midte
 
 When attempting to run for office the main thing a candidate has is their word. The stance in which they campaign on define them, attracting voters with common beliefs and sharing in their party platform. How do they spread their message? Advertising. The process of campaigning is not a cheap one, the ability for a candidate to properly portray themselves into the main stream comes from backing. Financial donations are a fundamental part of elections, the sheer amount of money one candidate can raise can reflect a life time of earnings.
 
-$/color{black}{Do campaign donations determine who will win when the ballots are counted?}$
+Do campaign donations determine who will win once the ballots are counted?
 
-[!Do campaign donations determine who will win when the ballots are counted?]
-
-```!Do campaign donations determine who will win when the ballots are counted?```
+The FEC, Federal Election Commission is responsible for tracking and reporting campaign finances. Using "Raising: by the numbers" (FEC, 2026) I collected all campaign finance data on Senate Elections in key battleground states for the upcoming midterms in North Carolina, Michigan, Texas, Georgia, New Hampshire in the years 2026, 2020, 2014, 2008. 
