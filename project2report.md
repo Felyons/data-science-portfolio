@@ -18,7 +18,7 @@ The FEC, Federal Election Commission is responsible for tracking and reporting c
 Above is the constructed DataFrame used to train a Decision Tree machine learning model to understand the true weight in which financial contributions carry during
 campaigning. For the sake of visual understanding the columns "candidate_id" and "candidate_name" are included, not considered during training.
 
-### Variable Defintion
+### Variable Definition
 
 * total_disbursements: The total amount of money spent by the candidate during campaign.
 * party_nom: If the candidate was selected by associated party to make it on the ballot
@@ -26,6 +26,10 @@ campaigning. For the sake of visual understanding the columns "candidate_id" and
 * pres_party: During the year in which the election takes place does the candidate align with the same party as the sitting president
 * state_party: in terms of US Senate Election voting only does the candidate align with historical voting outcomes.
 * incumbent_challenge_full: A series of 3 one-hot encoded columns determining the status of the seat for upcoming election.
+
+<img width="1237" height="607" alt="image" src="https://github.com/user-attachments/assets/a7a2bb27-ea32-41bc-a2ce-a6eced06f45f" />
+
+- According to the model its understood that although finances do carry high weight for predicting a US Senate election its not the strongest indicator. The best indicator is incumbency. The fact that a Senator has served before is the most important factor in our training to determine election outcomes. 
 
 
 
