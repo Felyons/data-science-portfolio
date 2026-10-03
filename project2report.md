@@ -10,4 +10,23 @@ When attempting to run for office the main thing a candidate has is their word. 
 
 Do campaign donations determine who will win once the ballots are counted?
 
-The FEC, Federal Election Commission is responsible for tracking and reporting campaign finances. Using "Raising: by the numbers" (FEC, 2026) I collected all campaign finance data on Senate Elections in key battleground states for the upcoming midterms in North Carolina, Michigan, Texas, Georgia, New Hampshire in the years 2026, 2020, 2014, 2008. 
+The FEC, Federal Election Commission is responsible for tracking and reporting campaign finances. Using "Raising: by the numbers" [(FEC, 2026)](https://www.fec.gov/data/raising-bythenumbers/) I collected campaign finance data on Senate Elections in key battleground states for the upcoming midterms in North Carolina, Michigan, Texas, Georgia, New Hampshire. In order to supply proper training data the years 2020, 2014, and 2008 were collected.
+
+<img width="1632" height="170" alt="image" src="https://github.com/user-attachments/assets/ae023494-3d5a-4ae1-a08a-2a7b4023e9fa" />
+*179 x 8*
+
+Above is the constructed DataFrame used to train a Decision Tree machine learning model to understand the true weight in which financial contributions carry during
+campaigning. For the sake of visual understanding the columns "candidate_id" and "candidate_name" are included, not considered during training.
+
+### Variable Defintion
+
+* total_disbursements: The total amount of money spent by the candidate during campaign.
+* party_nom: If the candidate was selected by associated party to make it on the ballot
+* GOAL VARIABLE won_term: Did they win.
+* pres_party: During the year in which the election takes place does the candidate align with the same party as the sitting president
+* state_party: in terms of US Senate Election voting only does the candidate align with historical voting outcomes.
+* incumbent_challenge_full: A series of 3 one-hot encoded columns determining the status of the seat for upcoming election.
+
+
+
+
