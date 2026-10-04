@@ -36,7 +36,7 @@ campaigning. For the sake of visual understanding the columns "candidate_id" and
 
 <img width="752" height="362" alt="image" src="https://github.com/user-attachments/assets/6455f3f0-db94-43a7-a78a-7c9374cf3391" />
 
-- This simple bar graph tracking only candidates that received "party_nom" shows more visual evidence supporting our new findings. Even though a candidates raising efforts might have exceeded expectations, the established Senator has a strong hold on their seat. "
+- This simple bar graph tracking candidates that received "party_nom" shows more evidence supporting our new findings. Even though a candidates raising efforts might have exceeded expectations, the established Senator has a strong hold on their seat. "
 
 
 
