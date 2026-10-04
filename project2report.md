@@ -27,13 +27,15 @@ campaigning. For the sake of visual understanding the columns "candidate_id" and
 * state_party: in terms of US Senate Election voting only does the candidate align with historical voting outcomes.
 * incumbent_challenge_full: A series of 3 one-hot encoded columns determining the status of the seat for upcoming election.
 
+### Trained Model
+
 <img width="1237" height="607" alt="image" src="https://github.com/user-attachments/assets/a7a2bb27-ea32-41bc-a2ce-a6eced06f45f" />
 
-- According to the model its understood that although finances do carry high weight for predicting a US Senate election it is not the strongest indicator. The best indicator for predicting the outcome of an election is incumbency. The fact that a Senator has served in that office creates the most impact on the outcome. 
+- According to the model its understood that although finances do carry high weight for predicting a US Senate election it is not the strongest indicator. The best indicator for predicting the outcome of an election is incumbency. The fact that a Senator has served in that office creates the most impact on the outcome. Since a senator spends six years in office their base has a chance to witness the protentional real change in which the senator campaigned on. For an incumbent senator the models seems to indicate one of the only challenges to their office is a Presidential election cycle. As defined earlier the "pres_praty" variable is used to determine whether a candidate is aligned with the sitting President. 
 
 <img width="752" height="362" alt="image" src="https://github.com/user-attachments/assets/6455f3f0-db94-43a7-a78a-7c9374cf3391" />
 
-- This simple bar graph tracking only candidates that received there "party_nom" shows more visual evidence supporting our new findings. Even though a candidates raising efforts might have exceeded expectations, the established Senator has a strong hold on their seat. "
+- This simple bar graph tracking only candidates that received "party_nom" shows more visual evidence supporting our new findings. Even though a candidates raising efforts might have exceeded expectations, the established Senator has a strong hold on their seat. "
 
 
 
