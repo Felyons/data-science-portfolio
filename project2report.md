@@ -12,7 +12,7 @@ Do campaign donations determine who will win once the ballots are counted?
 
 The FEC, Federal Election Commission is responsible for tracking and reporting campaign finances. Using "Raising: by the numbers" [(FEC, 2026)](https://www.fec.gov/data/raising-bythenumbers/) I collected campaign finance data on Senate Elections in key battleground states for the upcoming midterms in North Carolina, Michigan, Texas, Georgia, New Hampshire. In order to supply proper training data the years 2020, 2014, and 2008 were collected.
 
-<img width="1632" height="170" alt="image" src="https://github.com/user-attachments/assets/ae023494-3d5a-4ae1-a08a-2a7b4023e9fa" />
+<img style="width: auto; max-width: 100%;" alt="image" src="https://github.com/user-attachments/assets/ae023494-3d5a-4ae1-a08a-2a7b4023e9fa" />
 *179 x 8*
 
 Above is the constructed DataFrame used to train a Decision Tree machine learning model to understand the true weight in which financial contributions carry during
@@ -29,7 +29,7 @@ campaigning. For the sake of visual understanding the columns "candidate_id" and
 
 ### Trained Model
 
-<img width="1237" height="607" alt="image" src="https://github.com/user-attachments/assets/a7a2bb27-ea32-41bc-a2ce-a6eced06f45f" />
+<img style="width: auto; max-width: 100%;" alt="image" src="https://github.com/user-attachments/assets/a7a2bb27-ea32-41bc-a2ce-a6eced06f45f" />
 
 - According to the model its understood that although finances do carry high weight for predicting a US Senate election it is not the strongest indicator. The best indicator for predicting the outcome of an election is incumbency. The fact that a Senator has served in that office creates the most impact on the outcome. Since a senator spends six years in office their base has a chance to witness the protentional real change in which the senator campaigned on. For an incumbent senator the models seems to indicate one of the only challenges to their office is a Presidential election cycle. As defined earlier the "pres_praty" variable is used to determine whether a candidate is aligned with the sitting President. 
 
