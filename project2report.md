@@ -29,9 +29,11 @@ campaigning. For the sake of visual understanding the columns "candidate_id" and
 
 <img width="1237" height="607" alt="image" src="https://github.com/user-attachments/assets/a7a2bb27-ea32-41bc-a2ce-a6eced06f45f" />
 
-- According to the model its understood that although finances do carry high weight for predicting a US Senate election its not the strongest indicator. The best indicator is incumbency. The fact that a Senator has served before is the most important factor in our training to determine election outcomes. 
+- According to the model its understood that although finances do carry high weight for predicting a US Senate election it is not the strongest indicator. The best indicator for predicting the outcome of an election is incumbency. The fact that a Senator has served in that office creates the most impact on the outcome. 
 
-<img width="1241" height="737" alt="image" src="https://github.com/user-attachments/assets/f23be7ee-8096-4793-b1ee-d0c29a989339" />
+<img width="752" height="362" alt="image" src="https://github.com/user-attachments/assets/6455f3f0-db94-43a7-a78a-7c9374cf3391" />
+
+- This simple bar graph tracking only candidates that received there "party_nom" shows more visual evidence supporting our new findings. Even though a candidates raising efforts might have exceeded expectations, the established Senator has a strong hold on their seat. "
 
 
 
