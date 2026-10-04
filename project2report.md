@@ -31,6 +31,8 @@ campaigning. For the sake of visual understanding the columns "candidate_id" and
 
 - According to the model its understood that although finances do carry high weight for predicting a US Senate election its not the strongest indicator. The best indicator is incumbency. The fact that a Senator has served before is the most important factor in our training to determine election outcomes. 
 
+<img width="1241" height="737" alt="image" src="https://github.com/user-attachments/assets/f23be7ee-8096-4793-b1ee-d0c29a989339" />
+
 
 
 
