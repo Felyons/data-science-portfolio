@@ -36,7 +36,25 @@ campaigning. For the sake of visual understanding the columns "candidate_id" and
 
 <img width="752" height="362" alt="image" src="https://github.com/user-attachments/assets/6455f3f0-db94-43a7-a78a-7c9374cf3391" />
 
-- This simple bar graph tracking candidates that received "party_nom" shows more evidence supporting our new findings. Even though a candidates raising efforts might have exceeded expectations, the established Senator has a strong hold on their seat. "
+- This simple bar graph tracking candidates that received "party_nom" shows more evidence supporting our new findings. Even though a candidates raising efforts might have exceeded expectations, the established Senator has a strong hold on their seat. 
+
+<img style="width: auto; max-width: 100%;" alt="image" src="https://github.com/user-attachments/assets/a4cbb30e-4403-4391-bd31-52ad6abbe7d1" />
+<img style="width: auto; max-width: 100%;" alt="image" src="https://github.com/user-attachments/assets/33a6a095-e2dd-4c7b-962a-065b59e95f86" />
+
+- Above is a linear regression model testing ```won_term ~ ``` for more support of our new findings. Immediately the model states weak correlation with an R^2 value of .453 and the p-value associated with log_disbursements(value corrected total_disbursements) exceeds the stated level of .05. However if looking at the model in terms of incumbency with a p-value of .000 supported by the party_nom p-value of .000 the previous stated importance of incumbency is once again supported.
+- The QQ plot does the same. Visualizing a close grouping of residuals, as we reach the higher positive numbers we see the graph shift slightly from the normal distribution. I believe this occurs due to circumstances like the previously mentioned Senator Ossoff Georgia 2020 election as well as instances of extreme spending in open seat elections. 
+
+## Conclusion
+
+Elections are the defining factor of a functioning democracy. Attempting to understand all the factors behind one candidates success and anothers failure is 
+something for researches to study for as long as we continue this process. However isolating a variable in which we hope to gain a deeper understanding of is possible. For the question "Does campaign financing determine who will win?" an assumption was draw that millions must have impact however after running the models described above a different outcomes seems to have arisen. The fact of incumbency, a senator having held a seat for a prior term in which they choose to run again almost completely denies any challenges regardless of the war chest their rival may possess. One factor does exist to slightly shift these predicted odds, the sitting President aligned party, as factor of democracy it seems that the America people will vote opposite for their elected senators regardless of President. 
+
+Applying these ideas to the question of the 2026 midterms the model's tend to favor; 
+- Roy Cooper(NC, D)
+- Senator Jeanne Shaheen(NH, D)
+- Senator John Cornyn(TX, R)
+- Senator Jon Ossoff(GA, D
+- Abdul El-Sayed(MI, D)
 
 
 
