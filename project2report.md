@@ -60,6 +60,6 @@ Applying these ideas to the question of the 2026 midterms the model's tend to fa
 
 It is important to note that these are the conclusions of only the models described, for any model its limiting factors are the data on which it was trained 2020, 2014, 2008. Immediately if I choose to expand upon this project testing results until atleast 1996. The inclusion of all 50 states would be a minimum if usage of the model wished to be widespread. I believe that to find more support in the conclusion of incumbency running a new decision tree that finances are not included in is the best route, replacing with variables that state prior government service and potentially education background. 
 
-[Notebook] | [**Bibliography**](bibliography2.md)
+[Notebook](Project2.ipynb) | [**Bibliography**](bibliography2.md)
 
 
